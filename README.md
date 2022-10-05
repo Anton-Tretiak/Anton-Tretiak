@@ -32,4 +32,4 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="35" height="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" alt="webshtorm" width="35" height="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="35" height="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="35" height="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="35" height="35"/>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anton-tretiak&show_icons=true&locale=en" alt="anton-tretiak" /></p>
+![Anton Tretiaks's GitHub stats](https://github-readme-stats.vercel.app/api?username=anton-tretiak&show_icons=true&theme=radical)
