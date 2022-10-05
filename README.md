@@ -20,8 +20,7 @@
 
 <h3 align="left">Tech Skills:</h3>
 <p align="left">
->Programming and Markup Languages
-
+> Programming and Markup Languages
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anton-tretiak&show_icons=true&locale=en" alt="anton-tretiak" /></p>
