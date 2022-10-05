@@ -20,7 +20,9 @@
 
 <h3 align="left">Tech Skills:</h3>
 <p align="left">
-<h5 align="left">Programming and Markdown languages</h5>
+<h5 align="left">Programming and Markdown languages:</h5>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" height="30" width="40" />
+          
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anton-tretiak&show_icons=true&locale=en" alt="anton-tretiak" /></p>
