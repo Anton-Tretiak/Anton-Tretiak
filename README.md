@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anton Tretiak</h1>
 <h3 align="center">I'm a creative and goal-oriented Front End developer</h3>
+<img align="right" alt="coding" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 - 🎓 Student at the Faculty of Computer Engineering
 
