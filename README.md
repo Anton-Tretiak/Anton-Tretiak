@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anton Tretiak</h1>
-<h3 align="center">A creative and purposeful frontend developer from Kyiv, Ukraine</h3>
+<h3 align="center">I am a creative and goal-oriented Front End developer from Kyiv, Ukraine</h3>
 
 - 🌱 I’m currently learning **React.js, Redux**
 
