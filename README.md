@@ -10,9 +10,7 @@
 <a href="https://twitter.com/tapthecreator" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tapthecreator" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/anton-tretiak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anton tretiak" height="30" width="40" /></a>
 <a href="https://instagram.com/anton.trettiak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anton.trettiak" height="30" width="40" /></a>
-
-<a href="https://t.me/antontrettiak" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/social-icons-33/512/Telegram-256.png" alt="antobus" height="30" width="40" /></a>
-
+<a href="https://t.me/antontrettiak" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/social-icons-33/512/Telegram-256.png" alt="antobus" height="30" width="30" /></a>
 <a href="https://www.leetcode.com/antobus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="antobus" height="30" width="40" /></a>
 </p>
 
