@@ -6,7 +6,7 @@
 
 - 📍 Ukraine, Kyiv
 
-- 🌱 I’m currently learning **React.js, Redux**
+- 🌱 **React.js, Redux**
 
 - 📫 How to reach me **tretiak.ap@gmail.com**
 
