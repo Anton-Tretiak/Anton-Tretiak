@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Anton Tretiak</h1>
 <h3 align="center">Creative and goal-oriented Shopify Developer</h3>
 
-- 🎓 Computer Engineering Bachelor  
-- 💼 Specializing in **Shopify, Shopify Plus, and front-end development (React.js, Liquid, JS)**  
-- 📫 Reach me at **tretiak.ap@gmail.com**
+💼 Specializing in **Shopify and Shopify Plus development (Theme Development, Checkout UI Extensions, Shopify Functions etc.), and front-end development (React.js, Liquid, JS)**  
+
+📫 Reach me at **tretiak.ap@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -39,7 +39,7 @@ Over the past years, I’ve successfully developed, launched, and optimized mult
 ### **Technical Skills**
 - **Front-end:** JavaScript, TypeScript, React.js, jQuery  
 - **Back-end:** Node.js  
-- **Tools:** Git, Webpack, VS Code, Figma, Photoshop  
+- **Other Tools:** Git, Webpack, Figma, Photoshop, Adobe XD
 - **Best practices:** Performance optimization, SEO essentials, clean and maintainable code  
 
 ---
