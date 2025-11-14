@@ -2,7 +2,6 @@
 <h3 align="center">Creative and goal-oriented Shopify Developer</h3>
 
 - 🎓 Computer Engineering Bachelor  
-- 📍 Ukraine → currently in Montenegro  
 - 💼 Specializing in **Shopify, Shopify Plus, and front-end development (React.js, Liquid, JS)**  
 - 📫 Reach me at **tretiak.ap@gmail.com**
 
